@@ -1,0 +1,49 @@
+# R / RStudio session and user-specific files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.Rprofile.local
+
+# Temporary/editor/system files
+*~
+*.bak
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Raw RAIS microdata and large intermediate data files
+*.txt
+*.csv
+*.csv.gz
+*.7z
+*.zip
+*.rar
+*.parquet
+*.fst
+*.feather
+*.rds
+*.RDS
+*.rda
+*.RData
+*.dta
+*.sav
+
+# Local data/cache directories (if created within the repository)
+/data/
+/raw/
+/raw_data/
+/parquet/
+/cache/
+/tmp/
+/temp/
+
+# Keep the project file, both auxiliary spreadsheets, results in outputs/,
+# and the published article PDF in paper/ tracked.
+# In particular, do NOT ignore *.xlsx, *.pdf, aux_data/, outputs/, or paper/.
