@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this replication code, please cite the published study below."
+type: software
+title: "Replication code for: Estrutura ocupacional da aprendizagem: investimento em capital humano ou custo trabalhista?"
+authors:
+  - family-names: "Stivali"
+    given-names: "Matheus"
+    orcid: "https://orcid.org/0000-0002-7757-6433"
+repository-code: "https://github.com/stivali/2023_radar_aprendizagem"
+url: "https://github.com/stivali/2023_radar_aprendizagem"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Stivali"
+      given-names: "Matheus"
+      orcid: "https://orcid.org/0000-0002-7757-6433"
+  title: "Estrutura ocupacional da aprendizagem: investimento em capital humano ou custo trabalhista?"
+  journal: "Radar: tecnologia, produção e comércio exterior"
+  issue: 72
+  month: 4
+  year: 2023
+  doi: "10.38116/radar72art4"
+  url: "https://repositorio.ipea.gov.br/handle/11058/11903"
